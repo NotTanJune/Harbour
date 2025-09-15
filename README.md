@@ -28,7 +28,7 @@ Harbour is a supportive website designed to provide resources, information, and 
 5. Choose "main" branch and "/ (root)" folder
 6. Click "Save"
 
-Your site will be available at: `https://[your-username].github.io/[repository-name]`
+Your site will be available at: `https://NotTanJune.github.io/Harbour`
 
 ## Technology Stack
 
