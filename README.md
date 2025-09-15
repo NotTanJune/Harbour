@@ -19,34 +19,12 @@ Harbour is a supportive website designed to provide resources, information, and 
 - **About Us (`About SI.html`)**: Facts, figures, and educational content
 - **Community (`community.html`)**: Support groups and community resources
 
-## Deployment on GitHub Pages
-
-1. Push this repository to GitHub
-2. Go to your repository settings
-3. Navigate to "Pages" in the left sidebar
-4. Under "Source", select "Deploy from a branch"
-5. Choose "main" branch and "/ (root)" folder
-6. Click "Save"
-
-Your site will be available at: `https://NotTanJune.github.io/Harbour`
-
 ## Technology Stack
 
 - **HTML5**: Semantic markup
 - **CSS3**: Custom styling with W3.CSS framework
 - **W3.CSS**: Responsive CSS framework
 - **Unsplash Images**: High-quality stock photography
-
-## File Structure
-
-```
-├── index.html          # Main homepage
-├── About SI.html       # Facts and figures page
-├── community.html      # Community resources page
-├── style.css          # Custom CSS styles
-├── script.js          # JavaScript (currently unused)
-└── README.md          # Project documentation
-```
 
 ## Contributing
 
